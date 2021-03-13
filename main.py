@@ -1,1 +1,1 @@
-impor pandas
+import dupa123
