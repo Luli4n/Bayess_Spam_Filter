@@ -42,3 +42,4 @@ for i in range(len(set_table)):
 #Dodanie do macierzy podpisu kolumny w postaci slowa
 words_count=pd.DataFrame(words_count)
 print(words_count.head(3))
+
